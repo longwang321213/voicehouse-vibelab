@@ -1,0 +1,10 @@
+com.iconfeature.iconconfigurator
+array icon_3d_list
+array icon_sdf_list
+drawable icon_3d_layer_0
+drawable icon_3d_layer_1
+drawable icon_3d_sdf_0
+drawable icon_3d_sdf_1
+mipmap ic_spatial_launcher
+string icon_configurator_app_name
+xml locales_config

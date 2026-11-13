@@ -1,0 +1,17 @@
+-- Merging decision tree log ---
+manifest
+ADDED from G:\2026\PicoOs6\Gradle\VoiceHouseUpload_20261113\GradleStaging\unityLibrary\IconConfigurator.androidlib\AndroidManifest.xml:2:1-115
+INJECTED from G:\2026\PicoOs6\Gradle\VoiceHouseUpload_20261113\GradleStaging\unityLibrary\IconConfigurator.androidlib\AndroidManifest.xml:2:1-115
+	package
+		ADDED from G:\2026\PicoOs6\Gradle\VoiceHouseUpload_20261113\GradleStaging\unityLibrary\IconConfigurator.androidlib\AndroidManifest.xml:2:70-112
+		INJECTED from G:\2026\PicoOs6\Gradle\VoiceHouseUpload_20261113\GradleStaging\unityLibrary\IconConfigurator.androidlib\AndroidManifest.xml
+	xmlns:android
+		ADDED from G:\2026\PicoOs6\Gradle\VoiceHouseUpload_20261113\GradleStaging\unityLibrary\IconConfigurator.androidlib\AndroidManifest.xml:2:11-69
+uses-sdk
+INJECTED from G:\2026\PicoOs6\Gradle\VoiceHouseUpload_20261113\GradleStaging\unityLibrary\IconConfigurator.androidlib\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from G:\2026\PicoOs6\Gradle\VoiceHouseUpload_20261113\GradleStaging\unityLibrary\IconConfigurator.androidlib\AndroidManifest.xml
+INJECTED from G:\2026\PicoOs6\Gradle\VoiceHouseUpload_20261113\GradleStaging\unityLibrary\IconConfigurator.androidlib\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from G:\2026\PicoOs6\Gradle\VoiceHouseUpload_20261113\GradleStaging\unityLibrary\IconConfigurator.androidlib\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from G:\2026\PicoOs6\Gradle\VoiceHouseUpload_20261113\GradleStaging\unityLibrary\IconConfigurator.androidlib\AndroidManifest.xml
